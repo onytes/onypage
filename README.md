@@ -1,2 +1,2 @@
-# mytestpage.github.io
-mytestpage
+# onypage.github.io
+onypage
